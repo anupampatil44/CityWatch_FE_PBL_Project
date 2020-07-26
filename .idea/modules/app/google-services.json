@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254435022594",
+    "firebase_url": "https://visualtracer-3302a.firebaseio.com",
+    "project_id": "visualtracer-3302a",
+    "storage_bucket": "visualtracer-3302a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254435022594:android:d8992c8103c821075cd41b",
+        "android_client_info": {
+          "package_name": "com.example.citywatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254435022594-42kiaj0fcb73d47iaej6qp7tkjurebe2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citywatch",
+            "certificate_hash": "45ccd2d55548488be87faae8fc23dbe3b24a71e6"
+          }
+        },
+        {
+          "client_id": "254435022594-cbbcgnvkeipsbhd6urlg0u68r42j3dbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvyGYTXnoOIPU-OaZne4Wc4NIwqdBrFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254435022594-cbbcgnvkeipsbhd6urlg0u68r42j3dbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
